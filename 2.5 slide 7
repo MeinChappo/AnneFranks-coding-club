@@ -1,0 +1,37 @@
+The characteristics of an assembler, a compiler and an interpreter
+  
+Compiler
+Interpreter
+Description:
+a program that converts instructions into a machine-code or lower-level form so that they can be read and executed by a computer.
+In computer science, an interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled in
+
+
+Feature:
+A compiler is a computer program which helps you transform source code written in a high-level language into low-level machine language
+
+
+An interpreter does not generate an intermediate machine code
+
+
+Ease of writing code:
+easy
+Not so easy
+Impact of changing code:
+ 
+ 
+Designed for a specific type of processor:
+Yes/No
+Yes/No
+Need for translation software at run-time:
+Yes/No
+Yes/No
+Speed of code execution:
+Quick/Slow
+Quick/Slow
+Optimised code:
+Yes/No
+Yes/No
+Source code is kept secret:
+Yes/No
+Yes/No
