@@ -1,9 +1,0 @@
-num = (0)
-num1 = str(num)
-stop = False
-
-while stop == False:
-    with open('readme'+num1+'.txt', 'w') as f:
-        f.write('Create a new text file!')
-    num = num + 1
-    num1 = str(num)
