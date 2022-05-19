@@ -1,0 +1,26 @@
+import turtle
+import random
+
+run = True
+Left = (0)
+Right = (0)
+end = (0)
+
+while Right != (360):
+    Right = (Right + 1)
+    turtle.forward(1)
+    turtle.left(1)
+while Left != (450):
+    Left = (Left + 1)
+    turtle.forward(1)
+    turtle.right(1)
+
+turtle.left(90)
+turtle.forward(500)
+
+while end != (180):
+    end = (end + 1)
+    turtle.forward(1)
+    turtle.left(1)
+
+turtle.forward(500)
